@@ -1,0 +1,4 @@
+private;1;100
+private;2;200
+company;3;299.4
+company;4;399.2
